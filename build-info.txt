@@ -1,0 +1,6 @@
+PROJECT NAME: Jenkins Freestyle Build
+PRACTICAL: Jenkins Build Automation
+BUILD TYPE: Freestyle Project
+PURPOSE: System Information and File Generation
+BUILD ENVIRONMENT: Jenkins
+EXPECTED STATUS: SUCCESS
